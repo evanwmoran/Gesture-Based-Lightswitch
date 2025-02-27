@@ -32,21 +32,18 @@ To detect gestures, we use **TensorFlow Lite and Google Teachable Machine** to t
 ---
 ### **4. Build the Arduino and Servo circuit**
 **Connect the Servo Motor Correctly:**
- 1.Brown → GND
- 2.Red → 5V
- 3.Orange → D9 (Signal)
+1.Brown → GND
+2.Red → 5V
+3.Orange → D9 (Signal)
 
 ---
 ### **Test the project**
- 1. Run the Arduino Code on the board.
-
- 2. Run the Python Script on your computer.
-
- 3. Show a gesture to the camera:
-
-    -Open hand should turn the switch ON.
-    -Closed hand should turn the switch OFF.
-    -Neutral Expression will keep the servo at it's current position.
+1. Run the Arduino Code on the board.
+2. Run the Python Script on your computer.
+3. Show a gesture to the camera:
+ - Open hand should turn the switch ON.
+ - Closed hand should turn the switch OFF.
+ - Neutral Expression will keep the servo at its current position.
 
 
 
