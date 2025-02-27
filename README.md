@@ -17,7 +17,7 @@ To detect gestures, we use **TensorFlow Lite and Google Teachable Machine** to t
 
 #### **Steps:**
 1. **Collect Gesture Data**: Capture images of your **ON, OFF, and NEUTRAL** gestures.
-2. **Use **Google Teachable Machine** to Train Model
+2. **Use **Google Teachable Machine** to Train Model**
 3. **Convert to TensorFlow Lite**: Optimize the model for **Keras**.
 5. **Save Model Files**:
    - `keras_model.h5` (Full model)
@@ -25,10 +25,12 @@ To detect gestures, we use **TensorFlow Lite and Google Teachable Machine** to t
 
 ---
 
-### **2. Create the Python code**
-
+### **2. Import keras model and labels into python code**
+1. Add keras path into line 41
+2. Add labels path into line 48
 ---
 ### **3. Create the Arduino Code**
+1. Upload code to Arduino module
 ---
 ### **4. Build the Arduino and Servo circuit**
 **Connect the Servo Motor Correctly:**
