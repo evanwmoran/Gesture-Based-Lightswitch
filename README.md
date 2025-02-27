@@ -35,6 +35,7 @@ To detect gestures, we use **TensorFlow Lite and Google Teachable Machine** to t
 1.Brown → GND
 2.Red → 5V
 3.Orange → D9 (Signal)
+![Gesture-Based Light Switch Demo](IMG_4174.jpg)
 
 ---
 ### **Test the project**
