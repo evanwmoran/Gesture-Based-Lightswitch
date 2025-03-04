@@ -48,6 +48,7 @@ To detect gestures, we use **TensorFlow Lite and Google Teachable Machine** to t
  - Closed hand should turn the switch OFF.
  - Neutral Expression will keep the servo at its current position.
 
+[![Watch the demo](https://youtu.be/EIveS4LPveM)
 
 
 
